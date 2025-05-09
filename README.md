@@ -116,6 +116,15 @@ Esta biblioteca reúne prompts prontos para aplicação de Inteligência Artific
 
 ---
 
+### 📌 8. Prompt para Redigir Justificativas Padrão
+
+> **Prompt:**  
+> Escreva uma justificativa formal para a contratação de [objeto/serviço] com base na seguinte necessidade administrativa: [descrever brevemente o contexto].  
+>
+> Utilize linguagem técnica e fundamente a contratação com base em princípios da Administração Pública.
+
+---
+
 ## 🧩 Como Usar os Prompts
 
 1. Copie o prompt desejado.
