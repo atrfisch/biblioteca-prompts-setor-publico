@@ -6,7 +6,7 @@ Todos os prompts são editáveis com *placeholders* para que você personalize c
 
 ---
 
-## 🧭 Índice de Prompts
+## Índice de Prompts
 
 1. [Escrever um Ofício](#1-prompt-para-escrever-um-ofício)  
 2. [E-mail Pedindo Reunião](#2-prompt-para-escrever-um-e-mail-pedindo-reunião)  
