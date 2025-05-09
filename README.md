@@ -162,7 +162,7 @@ Esta biblioteca reúne prompts prontos para aplicação de Inteligência Artific
 > - Cabeçalho institucional do ministério  
 > - Saudação formal ao(à) parlamentar  
 > - Referência ao número e objeto do RIC  
-> - Respostas claras e objetivas aos questionamentos  
+> - Respostas claras e objetivas aos questionamentos. Cada resposta deve retomar a pergunta em questão e responder na sequência.  
 > - Fundamentação legal para eventuais informações não fornecidas  
 > - Encerramento cordial, colocando-se à disposição para esclarecimentos adicionais  
 >
