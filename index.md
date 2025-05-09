@@ -8,17 +8,17 @@ Todos os prompts são editáveis com *placeholders* para que você personalize c
 
 ## 🧭 Índice de Prompts
 
-1. [✍️ Escrever um Ofício](#📄-1-prompt-para-escrever-um-ofício)  
-2. [📧 E-mail Pedindo Reunião](#📧-2-prompt-para-escrever-um-e-mail-pedindo-reunião)  
-3. [🧾 Briefing de Projeto ou Ação](#🧾-3-prompt-para-escrever-um-briefing)  
-4. [🗓️ Detalhamento de Reunião](#🗓️-4-prompt-para-detalhamento-de-reunião)  
-5. [📃 Sumarização de Atas de Reunião](#📃-5-prompt-para-sumarização-de-atas-de-reunião)  
-6. [📑 Criação de Editais](#📑-6-prompt-para-criação-de-editais)  
-7. [📄 Termo de Referência (TdR)](#📄-7-prompt-para-criação-de-termos-de-referência-tdr)  
-8. [📌 Justificativas Padrão](#📌-8-prompt-para-redigir-justificativas-padrão)  
-9. [🎟️ Convite de Evento Público](#🎟️-9-prompt-para-convite-de-evento-público)  
-10. [📋 Formulário de Confirmação de Presença](#📋-10-prompt-para-criação-de-formulário-de-confirmação-de-presença)  
-11. [📝 Resposta a Requerimento de Informação (RIC)](#📝-11-prompt-para-responder-a-requerimento-de-informação-ric)
+1. [Escrever um Ofício](#1-prompt-para-escrever-um-ofício)  
+2. [E-mail Pedindo Reunião](#2-prompt-para-escrever-um-e-mail-pedindo-reunião)  
+3. [Briefing de Projeto ou Ação](#3-prompt-para-escrever-um-briefing)  
+4. [Detalhamento de Reunião](#4-prompt-para-detalhamento-de-reunião)  
+5. [Sumarização de Atas de Reunião](#5-prompt-para-sumarização-de-atas-de-reunião)  
+6. [Criação de Editais](#6-prompt-para-criação-de-editais)  
+7. [Termo de Referência (TdR)](#7-prompt-para-criação-de-termos-de-referência-tdr)  
+8. [Justificativas Padrão](#8-prompt-para-redigir-justificativas-padrão)  
+9. [Convite de Evento Público](#9-prompt-para-convite-de-evento-público)  
+10. [Formulário de Confirmação de Presença](#10-prompt-para-criação-de-formulário-de-confirmação-de-presença)  
+11. [Resposta a Requerimento de Informação (RIC)](#11-prompt-para-responder-a-requerimento-de-informação-ric)
 
 ---
 
