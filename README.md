@@ -26,8 +26,8 @@ Esta biblioteca reúne prompts prontos para aplicação de Inteligência Artific
 > Escreva um e-mail formal solicitando uma reunião com o seguinte objetivo: [inserir objetivo da reunião].  
 >
 > **Destinatário**: [nome e cargo do destinatário]  
-> **Data e horário sugerido**: [inserir opções]
-> **Pauta da Reunião**: [inserir pauta da reunião]
+> **Data e horário sugerido**: [inserir opções]  
+> **Pauta da Reunião**: [inserir pauta da reunião]  
 > **Local ou link sugerido**: [inserir local físico ou link de videoconferência]  
 >
 > O texto deve ter um tom cordial e direto, respeitando o protocolo institucional.
@@ -123,6 +123,36 @@ Esta biblioteca reúne prompts prontos para aplicação de Inteligência Artific
 > Escreva uma justificativa formal para a contratação de [objeto/serviço] com base na seguinte necessidade administrativa: [descrever brevemente o contexto].  
 >
 > Utilize linguagem técnica e fundamente a contratação com base em princípios da Administração Pública.
+
+---
+
+### 🎟️ 9. Prompt para Convite de Evento Público
+
+> **Prompt:**  
+> Escreva um convite institucional para evento público com base nas seguintes informações:  
+>
+> - Nome do evento: [inserir nome]  
+> - Data e horário: [inserir data e hora]  
+> - Local: [inserir local]  
+> - Objetivo do evento: [descrever brevemente]  
+> - Público-alvo: [descrever]  
+> - Órgão responsável: [nome do órgão]  
+>
+> O convite deve conter linguagem clara, tom institucional acolhedor e instruções sobre como confirmar presença.
+
+---
+
+### 📋 10. Prompt para Criação de Formulário de Confirmação de Presença
+
+> **Prompt:**  
+> Crie um texto introdutório para um formulário de confirmação de presença em evento institucional, com base nas seguintes informações:  
+>
+> - Nome do evento: [inserir nome]  
+> - Data e horário: [inserir data e hora]  
+> - Local: [inserir local]  
+> - Órgão organizador: [nome do órgão]  
+>
+> O texto deve ser objetivo e convidativo, com orientações claras para preenchimento dos campos obrigatórios. Listar os campos obrigatórios como checklist para o formulário.
 
 ---
 
