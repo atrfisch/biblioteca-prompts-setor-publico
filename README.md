@@ -26,7 +26,8 @@ Esta biblioteca reúne prompts prontos para aplicação de Inteligência Artific
 > Escreva um e-mail formal solicitando uma reunião com o seguinte objetivo: [inserir objetivo da reunião].  
 >
 > **Destinatário**: [nome e cargo do destinatário]  
-> **Data e horário sugerido**: [inserir opções]  
+> **Data e horário sugerido**: [inserir opções]
+> **Pauta da Reunião**: [inserir pauta da reunião]
 > **Local ou link sugerido**: [inserir local físico ou link de videoconferência]  
 >
 > O texto deve ter um tom cordial e direto, respeitando o protocolo institucional.
