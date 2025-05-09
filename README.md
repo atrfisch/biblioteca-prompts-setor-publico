@@ -7,7 +7,6 @@ Esta biblioteca reúne prompts prontos para aplicação de Inteligência Artific
 ## ✍️ Escrita Administrativa – Modelos de Prompts
 
 ### 📄 1. Prompt para Escrever um Ofício
-
 > **Prompt:**  
 > Redija um ofício administrativo conforme os padrões da Administração Pública Federal, utilizando linguagem formal, objetivo claro e estrutura adequada (cabeçalho, assunto, texto e encerramento).  
 >
@@ -21,7 +20,6 @@ Esta biblioteca reúne prompts prontos para aplicação de Inteligência Artific
 ---
 
 ### 📧 2. Prompt para Escrever um E-mail Pedindo Reunião
-
 > **Prompt:**  
 > Escreva um e-mail formal solicitando uma reunião com o seguinte objetivo: [inserir objetivo da reunião].  
 >
@@ -35,7 +33,6 @@ Esta biblioteca reúne prompts prontos para aplicação de Inteligência Artific
 ---
 
 ### 🧾 3. Prompt para Escrever um Briefing
-
 > **Prompt:**  
 > Escreva um briefing objetivo e claro para orientar a equipe sobre a seguinte ação ou projeto: [inserir nome e contexto].  
 >
@@ -52,7 +49,6 @@ Esta biblioteca reúne prompts prontos para aplicação de Inteligência Artific
 ---
 
 ### 🗓️ 4. Prompt para Detalhamento de Reunião
-
 > **Prompt:**  
 > Escreva uma pauta detalhada para uma reunião de trabalho com o seguinte tema: [inserir tema].  
 >
@@ -67,7 +63,6 @@ Esta biblioteca reúne prompts prontos para aplicação de Inteligência Artific
 ---
 
 ### 📃 5. Prompt para Sumarização de Atas de Reunião
-
 > **Prompt:**  
 > Resuma a ata da seguinte reunião, mantendo os principais tópicos discutidos, decisões tomadas e encaminhamentos:  
 > [copiar e colar aqui a ata completa]  
@@ -81,7 +76,6 @@ Esta biblioteca reúne prompts prontos para aplicação de Inteligência Artific
 ---
 
 ### 📑 6. Prompt para Criação de Editais
-
 > **Prompt:**  
 > Elabore um edital de chamamento público com base no seguinte contexto: [descreva o objeto da seleção].  
 >
@@ -99,7 +93,6 @@ Esta biblioteca reúne prompts prontos para aplicação de Inteligência Artific
 ---
 
 ### 📄 7. Prompt para Criação de Termos de Referência (TdR)
-
 > **Prompt:**  
 > Elabore um Termo de Referência para contratação do seguinte serviço: [descreva o objeto].  
 >
@@ -118,7 +111,6 @@ Esta biblioteca reúne prompts prontos para aplicação de Inteligência Artific
 ---
 
 ### 📌 8. Prompt para Redigir Justificativas Padrão
-
 > **Prompt:**  
 > Escreva uma justificativa formal para a contratação de [objeto/serviço] com base na seguinte necessidade administrativa: [descrever brevemente o contexto].  
 >
@@ -127,7 +119,6 @@ Esta biblioteca reúne prompts prontos para aplicação de Inteligência Artific
 ---
 
 ### 🎟️ 9. Prompt para Convite de Evento Público
-
 > **Prompt:**  
 > Escreva um convite institucional para evento público com base nas seguintes informações:  
 >
@@ -143,7 +134,6 @@ Esta biblioteca reúne prompts prontos para aplicação de Inteligência Artific
 ---
 
 ### 📋 10. Prompt para Criação de Formulário de Confirmação de Presença
-
 > **Prompt:**  
 > Crie um texto introdutório para um formulário de confirmação de presença em evento institucional, com base nas seguintes informações:  
 >
@@ -152,7 +142,31 @@ Esta biblioteca reúne prompts prontos para aplicação de Inteligência Artific
 > - Local: [inserir local]  
 > - Órgão organizador: [nome do órgão]  
 >
-> O texto deve ser objetivo e convidativo, com orientações claras para preenchimento dos campos obrigatórios. Listar os campos obrigatórios como checklist para o formulário.
+> O texto deve ser objetivo e convidativo, com orientações claras para preenchimento dos campos obrigatórios.
+
+---
+
+### 📝 11. Prompt para Responder a Requerimento de Informação (RIC)
+> **Prompt:**  
+> Redija uma minuta de resposta oficial a um Requerimento de Informação (RIC) encaminhado por parlamentar, conforme o artigo 50, §2º da Constituição Federal.  
+>
+> **Informações a serem consideradas:**  
+> - Número do RIC: [inserir número]  
+> - Autor do requerimento: [nome do(a) parlamentar]  
+> - Objeto do requerimento: [resumo do conteúdo solicitado]  
+> - Informações disponíveis: [detalhar as informações que serão fornecidas]  
+> - Informações indisponíveis ou sigilosas: [justificar conforme a legislação vigente, se aplicável]  
+> - Órgão ou setor responsável pela informação: [nome do órgão/setor]  
+>
+> A resposta deve conter:  
+> - Cabeçalho institucional do ministério  
+> - Saudação formal ao(à) parlamentar  
+> - Referência ao número e objeto do RIC  
+> - Respostas claras e objetivas aos questionamentos  
+> - Fundamentação legal para eventuais informações não fornecidas  
+> - Encerramento cordial, colocando-se à disposição para esclarecimentos adicionais  
+>
+> Utilize linguagem técnica, formal e respeitosa, conforme os padrões da Administração Pública Federal.
 
 ---
 
