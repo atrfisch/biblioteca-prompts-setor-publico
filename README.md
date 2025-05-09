@@ -113,7 +113,7 @@ Esta biblioteca reúne prompts prontos para aplicação de Inteligência Artific
 > - Critérios de avaliação  
 > - Requisitos técnicos mínimos  
 >
-> O documento deve estar alinhado com os padrões da Instrução Normativa nº 05/2017 da SEGES/MPDG.
+> O documento deve estar alinhado com os padrões do Setor Público.
 
 ---
 
@@ -140,6 +140,6 @@ Você pode sugerir novos prompts, abrir issues ou enviar _pull requests_. Servid
 
 ---
 
-## 📄 Licença
+## 📄 Autoria e Licença
 
-Este repositório está licenciado sob a [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Este repositório foi pensado por Arthur Fisch e feito com a ajuda de IA. Ele está licenciado sob a [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/).
