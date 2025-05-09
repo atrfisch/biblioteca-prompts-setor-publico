@@ -1,4 +1,4 @@
-# 📚 Biblioteca de Prompts para o Setor Público
+# Biblioteca de Prompts para o Setor Público
 
 Bem-vindo à Biblioteca de Prompts voltada à automação e qualificação de tarefas administrativas no setor público brasileiro. Esta iniciativa tem como objetivo democratizar o uso de Inteligência Artificial Generativa em atividades cotidianas, com foco em linguagem, formato e padrões da Administração Pública Federal.
 
@@ -22,13 +22,13 @@ Todos os prompts são editáveis com *placeholders* para que você personalize c
 
 ---
 
-## 📬 Como Contribuir
+## Contribua
 
-Você pode sugerir novos prompts ou melhorias diretamente no repositório do GitHub. Envie um _pull request_, abra uma _issue_ ou compartilhe exemplos de aplicação em seu órgão ou secretaria.
+Você pode sugerir novos prompts ou melhorias diretamente no repositório do GitHub. Envie um pull request, abra uma issue ou compartilhe exemplos de aplicação em seu órgão ou secretaria.
 
 ---
 
-## 📄 Licença
+## Licença
 
 Todos os conteúdos desta biblioteca estão sob licença [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
 Idealização: **Arthur Fisch** – com apoio de IA.
