@@ -2,6 +2,18 @@
 
 Esta biblioteca reúne prompts prontos para aplicação de Inteligência Artificial em atividades administrativas do setor público brasileiro, com foco na **produção textual conforme padrões da Administração Pública Federal**. Todos os prompts contêm _placeholders_ para personalização, facilitando o uso por servidores públicos de diferentes áreas.
 
+--
+## 📘 Referência Oficial
+Baseado nas diretrizes do [Guia Prático de Prompt para Servidores Públicos (Gov.br)](https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/guia-pratico-de-prompt-e-pesquisa-com-ia-para-servidores-publicos), recomendamos a seguinte estrutura para criar ou adaptar os seus prompts:
+
+1.  **Contexto:** Defina a situação (ex: "Sou um analista administrativo...").
+2.  **Tarefa:** Use verbos de ação claros (ex: "Resuma", "Redija", "Analise").
+3.  **Persona:** Peça à IA para assumir um papel (ex: "Atue como um especialista em Nova Lei de Licitações").
+4.  **Restrições:** Defina o que *não* fazer (ex: "Não use jargão excessivamente técnico").
+5.  **Formato:** Especifique a saída (ex: "Tabela", "Lista de tópicos", "Texto corrido").
+
+> **Dica de Segurança:** Nunca insira dados pessoais (CPF, dados de saúde) ou informações sigilosas nos prompts.
+
 ---
 
 ## ✍️ Escrita Administrativa – Modelos de Prompts
