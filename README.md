@@ -25,6 +25,38 @@ Baseado nas diretrizes do [Guia Prático de Prompt para Servidores Públicos (Go
 3. Utilize em ferramentas de IA generativas, como ChatGPT ou outras adotadas institucionalmente.
 
 ---
+
+## 🧭 Índice Rápido
+Clique no tema para ir direto ao prompt:
+
+### 🏛️ Estratégia e Gestão
+1. [Planejamento Estratégico (SWOT)](#-1-planejamento-estratégico-swot) 
+2. [Briefing de Projetos](#-2-briefing-de-projetos)
+3. [Detalhamento de Reunião (Pauta)](#-3-detalhamento-de-reunião)
+4. [Sumarização de Atas](#-4-sumarização-de-atas-de-reunião)
+
+### ✍️ Redação Oficial e Comunicação
+5. [Ofício Administrativo](#-5-ofício-administrativo)
+6. [E-mail Formal (Pedido de Reunião)](#-6-e-mail-formal-pedindo-reunião)
+7. [Justificativas Padrão](#-7-justificativa-padrão)
+8. [Resposta a Requerimento (RIC)](#-8-resposta-a-requerimento-de-informação-ric)
+9. [Convite para Evento](#-9-convite-de-evento-público)
+10. [Texto para Formulário de Presença](#-10-texto-para-formulário-de-confirmação)
+
+### 🗣️ Cidadania e Linguagem Simples
+11. [Tradutor de "Burocratês"](#-11-tradutor-de-burocratês-linguagem-simples) 
+12. [Resposta Empática (Ouvidoria)](#-12-resposta-empática-ao-cidadão) 
+
+### ⚖️ Licitações e Contratos (Lei 14.133)
+13. [Criação de Editais](#-13-criação-de-editais)
+14. [Termo de Referência (TdR)](#-14-criação-de-termos-de-referência-tdr)
+15. [Estrutura de ETP](#-15-estrutura-de-estudo-técnico-preliminar-etp)
+    
+### 📊 Dados e Produtividade
+16. [Análise de Sentimento](#-16-análise-de-sentimento-consultasouvidoria) 
+17. [Fórmulas para Excel/Planilhas](#-17-fórmulas-para-excelplanilhas) 
+
+---
 ---
 
 ## 🏛️ Estratégia e Gestão
